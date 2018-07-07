@@ -1,0 +1,66 @@
+C:\Users\Richard LeBlanc\Dropbox\CPSC 4400\Code for studios and projects\project3 - My version\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+C:\Users\Richard LeBlanc\Dropbox\CPSC 4400\Code for studios and projects\project3 - My version\obj\Debug\TCCL-AST.exe
+C:\Users\Richard LeBlanc\Dropbox\CPSC 4400\Code for studios and projects\project3 - My version\obj\Debug\TCCL-AST.pdb
+C:\Users\Richard LeBlanc\Dropbox\CPSC 4400\Code for studios and projects\project3 - My version\bin\Debug\TCCL-AST.exe.config
+C:\Users\Richard LeBlanc\Dropbox\CPSC 4400\Code for studios and projects\project3 - My version\bin\Debug\TCCL-AST.exe
+C:\Users\Richard LeBlanc\Dropbox\CPSC 4400\Code for studios and projects\project3 - My version\bin\Debug\TCCL-AST.pdb
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\project3\obj\Debug\TCCL-AST.exe
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\project3\obj\Debug\TCCL-AST.pdb
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\project3\bin\Debug\TCCL-AST.exe.config
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\project3\bin\Debug\TCCL-AST.exe
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\project3\bin\Debug\TCCL-AST.pdb
+D:\Google Drive\School Stuff\CPSC5400_Compilers\project3\bin\Debug\TCCL-AST.exe.config
+D:\Google Drive\School Stuff\CPSC5400_Compilers\project3\obj\Debug\TCCL-AST.exe
+D:\Google Drive\School Stuff\CPSC5400_Compilers\project3\obj\Debug\TCCL-AST.pdb
+D:\Google Drive\School Stuff\CPSC5400_Compilers\project3\bin\Debug\TCCL-AST.exe
+D:\Google Drive\School Stuff\CPSC5400_Compilers\project3\bin\Debug\TCCL-AST.pdb
+D:\Google Drive\School Stuff\CPSC5400_Compilers\project3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\bin\Debug\TCCL-AST.exe.config
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\obj\Debug\TCCL-AST.exe
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\obj\Debug\TCCL-AST.pdb
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\bin\Debug\TCCL-AST.exe
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\bin\Debug\TCCL-AST.pdb
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\bin\Debug\TCCL-AST.exe.config
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\bin\Debug\TCCL-AST.exe
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\bin\Debug\TCCL-AST.pdb
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\obj\Debug\TCCL-AST.exe
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\obj\Debug\TCCL-AST.pdb
+F:\School\Prog3_Killme\Prog3\bin\Debug\TCCL-AST.exe.config
+F:\School\Prog3_Killme\Prog3\obj\Debug\TCCL-AST.exe
+F:\School\Prog3_Killme\Prog3\obj\Debug\TCCL-AST.pdb
+F:\School\Prog3_Killme\Prog3\bin\Debug\TCCL-AST.exe
+F:\School\Prog3_Killme\Prog3\bin\Debug\TCCL-AST.pdb
+F:\School\Prog3_Killme\Prog3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3_Killme\Prog3\bin\Debug\TCCL-AST.exe.config
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3_Killme\Prog3\obj\Debug\TCCL-AST.exe
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3_Killme\Prog3\obj\Debug\TCCL-AST.pdb
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3_Killme\Prog3\bin\Debug\TCCL-AST.exe
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3_Killme\Prog3\bin\Debug\TCCL-AST.pdb
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3_Killme\Prog3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\Prog3\bin\Debug\TCCL-AST.exe.config
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\Prog3\obj\Debug\TCCL-AST.exe
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\Prog3\obj\Debug\TCCL-AST.pdb
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\Prog3\bin\Debug\TCCL-AST.exe
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\Prog3\bin\Debug\TCCL-AST.pdb
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog3\Prog3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog3\bin\Debug\TCCL-AST.exe.config
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog3\obj\Debug\TCCL-AST.exe
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog3\obj\Debug\TCCL-AST.pdb
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog3\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog3\bin\Debug\TCCL-AST.exe
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog3\bin\Debug\TCCL-AST.pdb
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog4\bin\Debug\TCCL-AST.exe.config
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog4\bin\Debug\TCCL-AST.exe
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog4\bin\Debug\TCCL-AST.pdb
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog4\obj\Debug\TCCL-AST.exe
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog4\obj\Debug\TCCL-AST.pdb
+C:\Users\lenny\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog4\obj\Debug\Project3.csprojResolveAssemblyReference.cache
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog4\bin\Debug\TCCL-AST.exe.config
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog4\obj\Debug\TCCL-AST.exe
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog4\obj\Debug\TCCL-AST.pdb
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog4\bin\Debug\TCCL-AST.exe
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog4\bin\Debug\TCCL-AST.pdb
+D:\Google Drive\School Stuff\CPSC5400_Compilers\Prog4\Prog4\obj\Debug\Project3.csprojResolveAssemblyReference.cache

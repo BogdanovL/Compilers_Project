@@ -1,0 +1,35 @@
+Your final project assignment is to generate .NET CIL for selected features of TCCL -- and execute the programs you generate using by using ILasm to assemble the CIL into an executable file.  (I will supply a tool that will allow you to assemble and execute your CIL file directly from you compiler.)  Your first step should be to add a CodeGen  visitor that generates CIL code. This visitor will be executed right after your Semantics visitor completes.
+
+Notes about the CodeGen visitor:
+
+The VisitNode method for CompilationUnit must generate the prelude code for the program before calling VisitChildren.
+The VisitNode method for a MethodDeclaration must generate prelude code for the method before calling VisitChildren.  Afterward, it must generate the final two lines, a 'ret' instuction and a right bracket.
+For other VisitNode methods that generate CIL code, pay attention to when they should do so relative to calls to visit some or all of their AST children.
+Getting all of the above correct is necessary for the generated CIL instructions to be in the proper sequence.
+ 
+Additional test programs are now available for advanced features:
+
+logictest - if statements with logical operators
+twoparams - method call with multiple parameters
+fact2 - recursive method calls (should be automatic if you get the reference right)
+struct1 - declares a struct and uses its fields and methods
+Additional test programs to be added:
+
+error2 - more error checking
+logictest2 - if statements with  short-circuit logical operators
+struct2 - more complex struct references
+arrays - declarations of array types and reference to array variables (will require syntax extensions)
+classtest - creation of class instances and calls to not static methods (will require syntax extensions)
+
+Scoring for successful execution of test programs:
+
+Test programs specified for Project 3 -- 80 points
+error2 - 5 points
+logictest - 5 points
+twoparams - 5 points
+fact2 - 5 points
+struct1 - 10 points
+struct2 - 5 points
+arrays - 10 points
+classtest - 10 points
+ If you are working in as a team of two students, your total point score based on the above tests will be divided by 1.2 to determine a final score for grading purposes.  Yes, I do expect teams to be able to accomplish more than someone working alone!

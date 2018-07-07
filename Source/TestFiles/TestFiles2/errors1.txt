@@ -1,0 +1,11 @@
+/*Tests for handling undeclared variables and erroneous use of */
+/*  strings and booleans        */
+
+public class compute {
+    
+    public void main ()
+    {
+	        WriteLine(“Trying to use undeclared variables”);
+
+			}
+} 

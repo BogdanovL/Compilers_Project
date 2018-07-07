@@ -1,0 +1,11 @@
+/* Tests calls to Write with integers and */
+/*  computation with constants */
+
+public class writenums {
+
+	public void main (int x, int y)
+	{
+		WriteLine(x, y);
+		WriteLine(5*2+1/4);
+	}
+}

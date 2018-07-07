@@ -1,0 +1,22 @@
+// Type visit the node
+	// Type visit "INT" node  
+		Gets symbol
+		Records this node with those attrs
+		Records this node type
+	   Process error (not in sym table)
+		Error -  ”This identi f ier is not a type name : ”, 
+		Sets node type to error
+		Sets node attr to null.
+// Extract the type that type visitor put there
+// If initializing (if assignment)
+// Semantics visit the "initialization" node
+	// Semantics visit...
+// Ensure assignable
+// If not - error "Initialization expression not assignable to variable type "
+// Check const is inited
+// Go through list of symbols
+// For each add kind, variable type, and modifiers 
+// Set VLD node type
+// Set VLD node attr
+// Ensure not redeclared
+// If not error "Variable name cannot be redeclared :"

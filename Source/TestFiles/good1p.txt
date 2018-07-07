@@ -1,0 +1,15 @@
+public static class good1p {
+
+   public static void outInt(int n, int x) {
+     java.io.PrintStream ps;
+     ps = java.lang.System.out;
+     ps.print(n);
+   }
+   public static void main431() {
+     int w,x;
+	 char c;
+     x = 3+1;  TestClasses.good1p.outInt(x);
+     x = 5*7;  TestClasses.good1p.outInt(x);
+	 x = 1 + 2 * 777 + 4 * 1;
+   }
+}
